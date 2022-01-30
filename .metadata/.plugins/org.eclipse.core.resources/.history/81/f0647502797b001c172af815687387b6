@@ -1,0 +1,26 @@
+
+class A {
+
+	public void A() {
+		
+		System.out.println("A class");
+	}
+	
+}
+
+class B extends A {
+	
+	public void B() {
+
+		System.out.println("B class");
+	}
+}
+
+
+public class MultilevelInheritanceMain {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}

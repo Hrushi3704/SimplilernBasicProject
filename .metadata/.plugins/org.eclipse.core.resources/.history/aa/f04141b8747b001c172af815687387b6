@@ -1,0 +1,9 @@
+
+public class Vechile {
+
+	String colour;
+	Int Tyre;
+	String type;
+	
+	
+}

@@ -1,0 +1,17 @@
+
+public class StaticDemo {
+
+	public int instancevair;
+	public static int Staticvairable;
+	
+	public void Instancemethod() {
+		
+		System.out.println("Instance method");
+	}
+
+	
+	public static void Staticmethod()
+	{
+		System.out.println("static method");
+	}
+}

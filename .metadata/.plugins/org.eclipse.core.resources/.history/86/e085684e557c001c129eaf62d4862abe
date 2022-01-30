@@ -1,0 +1,19 @@
+
+public class StaticDemoMain {
+
+	public static void main(String[] args) {
+		
+		// to access instance vair
+		StaticDemo demo = new StaticDemo();
+		demo.instancevair = 20;
+		System.out.println(demo.instancevair);
+		
+		
+		// to access for static vairabble
+		StaticDemo.Staticvairable = 30;
+		System.out.println(StaticDemo.Staticvairable);
+		
+		
+	}
+	
+}

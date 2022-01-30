@@ -1,0 +1,27 @@
+
+public class Vechile {
+
+	private String colour;
+	private int Tyre;
+	private String type;
+	public String getColour() {
+		return colour;
+	}
+	public void setColour(String colour) {
+		this.colour = colour;
+	}
+	public int getTyre() {
+		return Tyre;
+	}
+	public void setTyre(int tyre) {
+		Tyre = tyre;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	
+	
+}
